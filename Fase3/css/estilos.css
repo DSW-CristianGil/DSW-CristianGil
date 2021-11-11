@@ -1,19 +1,19 @@
 header{
-    color: white;
-    background-color: #0A1931;
+    color: rgba(8, 0, 0, 0.342);
+    background-color: #010d20;
     margin: auto;
     text-align: center;
     font-family:fantasy;
 }
 nav{
     font-family:fantasy;
-    background-color: #185ADB;
+    background-color: #18dbcb;
     max-width: 1000px;
     margin: auto;
-    color: white;
+    color: rgb(221, 216, 238);
     text-align:start
 
-}
+}   
 
 .menu li a{
     text-decoration: none;
@@ -54,14 +54,14 @@ section{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 aside{
-    background-color: #ECAC5D;
+    background-color: #0f0f0ffa;
     grid-column: 4/5;
     text-align: center;
     font-family:fantasy;
     
 }
 footer{
-    background-color:#FEDDBE;
+    background-color:#f8f6f4;
     text-align: center;
     font-family:fantasy;
 }
